@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @TMKPTC. Roblox name: ScriptingNoah
-- 👀 I’m interested in roblox scripting, UI, and building.
-- 🌱 I’m currently learning LUA
-- 📫 How to reach me: ! Noah#0001
-
-<!---
-TMKPTC/TMKPTC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @frnoah. Roblox name: frnoah0
+- 👀 I’m interested in roblox scripting, AI Wrappers, and User Interface development.
+- 🌱 I’m currently learning LUA, JAVA, and C#.
+- 📫 Reach me on discord: fr_noah
